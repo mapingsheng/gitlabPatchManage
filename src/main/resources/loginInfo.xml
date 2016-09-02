@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loginInfo>
+	<root password="sysware123456"></root>
+</loginInfo>
+<!-- 该文件废弃不用，用户登录验证更改成从数据库获取验证方式 -->

@@ -1,0 +1,13 @@
+.metadata/
+RemoteSystemsTempFiles/
+target/
+.settings/
+
+
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/lib/
+.idea/
+galaxy.iml
+.mymetadata
+src/main/webapp/META-INF/
+syswareGitManage.iml
